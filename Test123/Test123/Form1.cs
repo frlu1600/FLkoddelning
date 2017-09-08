@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace test
+namespace Test123
 {
     public partial class Form1 : Form
     {
@@ -19,14 +19,7 @@ namespace test
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
-            if ()
-            {
-                checkBox1.Checked();
-                MessageBox.Show("Du gillar inte glass");
-            }
-            else
-                MessageBox.Show("Du gillar glass");
+
         }
     }
 }
